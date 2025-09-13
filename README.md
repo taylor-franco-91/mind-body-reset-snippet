@@ -58,7 +58,7 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 
 | Profile |  
 |---------|  
-| ![Profile](screenshots/profile.png) |  
+| ![Profile](screenshots/personal-profile.png) |  
 
 </div>
 
