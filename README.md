@@ -39,7 +39,7 @@ pip install pytest selenium
 3. Run The Test
 pytest test_buy_now_change_your_life_main_purchase_button.py
 
-
+---
 
 
 ## 📸 Screenshots  
