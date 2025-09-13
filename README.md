@@ -50,7 +50,7 @@ Here’s a preview of the **Mind Body Reset Mobile App Prototype**:
 
 | Dashboard | 12-Week Program | Daily Check-in |  
 |-----------|-----------------|----------------|  
-| ![Dashboard](screenshots/dashboard.png) | ![12-Week Program](screenshots/12-week-program.png) | ![Daily Check-in](screenshots/daily-checkin.png) |  
+| ![Dashboard](screenshots/dashboard.png) | ![12-Week Program](screenshots/12-week-program.png) | ![Daily Check-in](screenshots/daily-check-in.png) |  
 
 | Workout Library | Coach Messages | Community |  
 |-----------------|----------------|-----------|  
