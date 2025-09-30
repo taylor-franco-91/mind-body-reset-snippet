@@ -22,8 +22,8 @@ With a focus on building reliable, user-friendly, and intelligent digital experi
 
 ## 🎯 Purpose
 This repo demonstrates my range as a:
-- **Junior QA Engineer** → Automated + manual test practices.  
-- **Frontend Web Developer** → Clean UI sections and styling.  
+- **Frontend Web Developer** → Clean UI sections and styling
+- **Junior QA Engineer** → Automated + manual test practices.   
 - **AI Prompt Engineer** → Leveraging AI for content, workflow automation, and digital strategy.  
 
 ---
