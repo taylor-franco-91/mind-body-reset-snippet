@@ -41,31 +41,6 @@ pytest test_buy_now_change_your_life_main_purchase_button.py
 
 ---
 
-
-## 📸 Screenshots  
-
-Here’s a preview of the **Mind Body Reset Mobile App Prototype**:  
-
-<div align="center">  
-
-| Dashboard | 12-Week Program | Daily Check-in |  
-|-----------|-----------------|----------------|  
-| ![Dashboard](screenshots/dashboard.png)<br><sub>Main dashboard showing weekly plan and quick stats.</sub> | ![12-Week Program](screenshots/12-week-program.png)<br><sub>12-week structured program with milestones.</sub> | ![Daily Check-in](screenshots/daily-check-in.png)<br><sub>Track mood, meals, and hydration daily.</sub> |  
-
-| Workout Library | Coach Messages | Community |  
-|-----------------|----------------|-----------|  
-| ![Workout Library](screenshots/workout-library.png)<br><sub>Exercise database with guided workouts.</sub> | ![Coach Messages](screenshots/coach-message.png)<br><sub>Direct messages from your coach for accountability.</sub> | ![Community](screenshots/community.png)<br><sub>Group forum for encouragement and sharing results.</sub> |  
-
-| Profile |  
-|---------|  
-| ![Profile](screenshots/personal-profile.png)<br><sub>Personal profile with progress tracking and achievements.</sub> |  
-
-</div>
-
-
-
-
-
 ## 👤 Author
 **Taylor Franco**  
 Junior QA Engineer | Web Developer | AI Prompt Engineer  
